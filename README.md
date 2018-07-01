@@ -23,7 +23,7 @@ This quiz is designed to test your ability to recognize company logos.
 
 **Questions:**
 > 1. Which one of these logos falls under the Automotive sector? [ RadioButton ]
-2. Which one of these logos is the original Mcdonalds logo? [ RadioButton ]
+2. Which one of these logos is the original starbucks logo? [ RadioButton ]
 3. Check all the companies that offer a movie streaming service. [ CheckBox ]
 4. What is the name of this company? [ EditText ]
 5. Which one of these logos is no longer current? [ RadioButton ]
@@ -31,4 +31,7 @@ This quiz is designed to test your ability to recognize company logos.
 7. Name this company.  [ EditText ]
 
 --------------------------------------------------------------------------------
+
++link to download the app: https://drive.google.com/open?id=1S1-gp0rHRuOv27RaI-n4Bq59jTaiEd94
+
 
